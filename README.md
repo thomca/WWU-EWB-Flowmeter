@@ -1,4 +1,4 @@
-# WWU-EWB-Flowmeter
+# Walla Walla University Engineers Without Borders Flowmeter Project
 
 This project is for the Walla Walla University Engineers Without Boarders Flowmeter Project. 
 
