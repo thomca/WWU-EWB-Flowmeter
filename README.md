@@ -12,7 +12,7 @@ Reporting_Data - forms and data for field report
 
 
 Project Goals:
-- Auto fill feild report form for Walla Walla County Conservation team
+- Auto fill field report form for Walla Walla County Conservation team
 - Create intuitive graphs that are useful and easy to read
 
 
