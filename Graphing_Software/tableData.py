@@ -1,7 +1,9 @@
+# to be run from Graphing_Software directory
 import string
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
+import os
 
 plt.style.use('_mpl-gallery')
 
@@ -13,7 +15,10 @@ xmax = -1
 ymin = -1
 ymax = -1
 
-# read in file
+# read in file (this code is untested)
+# currentDirectory = os.getcwd() 
+# parrentDirectory = os.path.abspath(os.path.join(currentDirectory, os.pardir)) # only need this if in Graphing_Software
+# reportingDataPath = parentDirectory + '\Reporting_Data\example_data.csv'
 
 # CSV reading tutorial https://www.geeksforgeeks.org/reading-csv-files-in-python/
 with open('example_data.csv', mode='r')as file:
