@@ -1,4 +1,12 @@
 #this script is a work in progress, working on adding library dependencies for project
+
+# note: make sure that you only have one version of python 
+# or that the version of python that is run here is the one 
+# with the dependencies 
+
+# for windows
+# -m pip install --upgrade pip
+# py -m pip install matplotlib
 python -m pip install --upgrade pip setuptools wheel
 pip install numpy
 pip install matplotlib
