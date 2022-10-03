@@ -6,7 +6,10 @@
 
 # for windows
 # -m pip install --upgrade pip
+# py -m pip install numpy
 # py -m pip install matplotlib
+# py -m pip install tk
 python -m pip install --upgrade pip setuptools wheel
 pip install numpy
 pip install matplotlib
+pip install tk
