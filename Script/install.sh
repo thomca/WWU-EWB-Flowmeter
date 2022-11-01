@@ -4,6 +4,7 @@
 # or that the version of python that is run here is the one 
 # with the dependencies 
 
+# Using Python 3.11.2
 # for windows
 # -m pip install --upgrade pip
 # py -m pip install numpy
