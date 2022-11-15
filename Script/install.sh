@@ -20,5 +20,9 @@ python3 -m pip install --upgrade pip setuptools wheel
 pip install numpy
 pip install matplotlib
 pip install tk
+# option one
 pip install reportlab
 pip install pdfrw
+# option two
+pip install pandas
+pip install PyPDF2
