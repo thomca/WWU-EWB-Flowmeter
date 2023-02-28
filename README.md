@@ -16,5 +16,6 @@ Project Goals:
 - Create intuitive graphs that are useful and easy to read
 
 
+PDF fill?
 
 https://www.youtube.com/watch?v=uU55FCbPHCI&list=PLsFAPivYZiGT-Vm7Mv95_rsGmKp9O8Qpi&index=1&t=1300s
